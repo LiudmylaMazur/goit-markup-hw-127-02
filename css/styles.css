@@ -1,3 +1,6 @@
+/* font-family: "Roboto", sans-serif; */
+/* font-family: "Raleway", sans-serif; */
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #2e2f42;
@@ -8,22 +11,39 @@ ol {
   list-style: none;
 }
 a {
+  text-decoration: none;
 }
-.navigation {
+/* #region header */
+.header-main {
 }
-.navigation-list {
+.header-nav {
 }
-.navigation-item {
+.nav-list {
 }
-.address {
+
+.nav-item {
+}
+.nav-link {
+}
+.contact {
   color: #434455;
 }
-.address-list {
+.contact-list {
 }
-.address-item {
+.contact-item {
 }
+.contact-link {
+}
+
+/* #endregion header */
+/* #region hero */
 .hero {
 }
+.main-title {
+}
+
+/* #endregion hero */
+/* #region our */
 .our {
 }
 .our-list {
@@ -32,3 +52,24 @@ a {
 }
 .our-text {
 }
+/* #endregion our */
+/* #region team */
+.team {
+}
+.team-list {
+}
+.team-item {
+}
+.team-text {
+}
+/* #endregion team */
+/* #region portfolio */
+.portfolio {
+}
+.portfolio-list {
+}
+.portfolio-items {
+}
+.portfolio-text {
+}
+/* #endregion portfolio */
